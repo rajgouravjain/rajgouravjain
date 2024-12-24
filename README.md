@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Rajgourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajgouravjain)](https://github.com/rajgouravjain/)
+
 <!--
 **rajgouravjain/rajgouravjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
