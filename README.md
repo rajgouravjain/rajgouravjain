@@ -1,6 +1,21 @@
 ## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgouravjain&hide_progress=true&show_icons=true&theme=tokyonight&hide=css,javascript,html,jupyter-notebook)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rajgouravjain&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rajgouravjain&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark ), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajgouravjain&show_icons=true&theme=tokyonight" />
+</picture>
 
-[![Rajgourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajgouravjain)](https://github.com/rajgouravjain/)
+
+
+
+
 
 <!--
 **rajgouravjain/rajgouravjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
