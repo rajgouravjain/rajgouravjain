@@ -1,5 +1,8 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgouravjain&hide_progress=true&show_icons=true&theme=tokyonight&hide=css,javascript,html,jupyter-notebook)
+
+![Top Langs Percent](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgouravjain&layout=donut&show_icons=true&theme=tokyonight)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rajgouravjain&show_icons=true&theme=tokyonight"
